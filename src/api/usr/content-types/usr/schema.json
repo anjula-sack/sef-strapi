@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "usrs",
+  "info": {
+    "singularName": "usr",
+    "pluralName": "usrs",
+    "displayName": "USR"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Date": {
+      "type": "date"
+    },
+    "Name": {
+      "type": "string"
+    }
+  }
+}
