@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "usrs",
+  "collectionName": "usr_certificates",
   "info": {
-    "singularName": "usr",
-    "pluralName": "usrs",
-    "displayName": "USR"
+    "singularName": "usr-certificate",
+    "pluralName": "usr-certificates",
+    "displayName": "usr-certificates"
   },
   "options": {
     "draftAndPublish": true
